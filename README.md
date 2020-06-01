@@ -1,4 +1,4 @@
-# pyCovid_TechLabsProj
+# Covid-19 interactive & intuitive visualization & forecasting
 This repository es for TechLabs final project
 
 ### 1.Title of the project
